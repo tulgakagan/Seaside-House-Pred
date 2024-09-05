@@ -1,0 +1,18 @@
+DESCRIPTION
+-----------
+The dataset contains detailed information about the houses as a unit of block. A detailed data dictionary is provided below.
+The aim of this case study is to evaluate your approach, techniques, and understanding of the problem. While we do not expect a perfect model, we are interested in how you explain your approach through coding and the quality of your work. However, having a well-performing model is a strong plus.
+ 
+Data Dictionary:
+HOUSING_MEDIAN_AGE : Median age of the houses & apartments.
+TOTAL_ROOMS : Total room count of the block.
+TOTAL_BEDROOMS: Total bedroom count of the block.
+POPULATION : Total population of the block.
+HOUSEHOLDS : Total number of households of the block.
+MEDIAN_INCOME : Median income of the population.
+MEDIAN_HOUSE_VALUE : Median house value of the block
+MOISTURE_LEVEL : Measured moisture level of the block. (Yearly avg.)
+MEDIAN_FLOOR_COUNT : Median maximum floor count of each house & apartments in the block. (in years)
+TARGET : A binary indicator / flag that shows if the block is closer to the seaside or not. {1 : is close to the seaside, 0 : is not close to the seaside}
+ARCHITECTURAL_STYLE: predominant architectural style of the buildings in the housing blocks
+COMMUNITY_ENGAGEMENT: level of community engagement or involvement in each housing block
